@@ -1,0 +1,53 @@
+button.btn.btn-primary a {
+    color: #fff;
+}
+
+a.nav-link {
+    text-transform: uppercase;
+    letter-spacing: 2px !important;
+    font-size: 18px !important;
+}
+.modal-header {
+    display: block;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  button.cls {
+    width: 100%;
+    background: #1fb51d;
+    color: #fff;
+    border: none;
+    padding: 8px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.modal-header h4 {
+    font-size: 32px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: #2626b5;
+}
+  
+  button:hover {
+    opacity: 0.8;
+  }

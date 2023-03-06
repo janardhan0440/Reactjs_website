@@ -1,0 +1,10 @@
+.footer {
+    background: #0d1ccef2;
+    padding: 20px;
+}
+
+.footer h5 {
+    color: #fff;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}

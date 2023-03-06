@@ -1,0 +1,34 @@
+section.menu {
+    background-color: #563d7c;
+}
+
+div#navbarSupportedContent ul li a {
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+a.navbar-brand {
+    color: #fff !important;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.title_hm {
+    width: 100%;
+}
+button.btn.btn-primary a {
+    color: #fff;
+}
+.title_hm h2 {
+    font-size: 50px;
+    padding: 40px;
+    font-family: cursive;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.frst button.btn.btn-primary {
+    font-size: 20px;
+    padding: 7px 32px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
