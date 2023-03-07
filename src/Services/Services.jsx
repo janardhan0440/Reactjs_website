@@ -17,7 +17,7 @@ function template() {
           </div>
           <div className="col-8">
             <div className="rigt">
-              <h2>Services </h2>
+              <h2>Services page</h2>
               <h4>To Grow Your Business</h4>
               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
